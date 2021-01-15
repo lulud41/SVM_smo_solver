@@ -4,32 +4,6 @@ import matplotlib.pyplot as plt
 import sklearn.datasets as skd
 
 
-"""
-    A faire :
-
-    : faire une classe propre
-
-
-    >>>>>>>>>>>>>>>>>>>< DATASETS QUI MARCHENT
-
-        > moons :
-
-            : poly, C = 1 , d = 3, gamma = 1
-                : Tr : 0.992 et test 0.990
-
-
-        > circles
-            : RBF, c=10, gamma 5, 100% test et train
-
-
-        > xor
-            RBF, c20, gamma 10, test 983, train 998
-
-        > blobs
-            linear : C == 100, test 976, train 968
-"""
-
-
 def generate_dataset(n_samples, type):
     np.random.seed(0)
 
