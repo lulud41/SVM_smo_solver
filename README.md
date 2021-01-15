@@ -5,6 +5,6 @@ Implementation from scratch of the solution described in the [LIBSVM publication
 
 
 
-![alt text](https://github.com/lulud41/SVM_smo_solver/blob/main/blobs.png?raw=true) ![alt text](https://github.com/lulud41/SVM_smo_solver/blob/main/moons.png?line=true)
-![alt text](https://github.com/lulud41/SVM_smo_solver/blob/main/xor.png?raw=true) ![alt text](https://github.com/lulud41/SVM_smo_solver/blob/main/circles.png?line=true)
+![alt-text-1](blobs.png) ![alt-text-2](moons.png)
+![alt-text-1](xor.png) ![alt-text-2](circles.png)
 
